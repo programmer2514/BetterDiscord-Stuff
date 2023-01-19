@@ -3,7 +3,8 @@
 
 
 ## [CollapsibleUI](https://github.com/programmer2514/BetterDiscord-CollapsibleUI)
-[![Download](https://img.shields.io/badge/Download-3a71c1?labelColor=0c0d10&color=3a71c1&style=for-the-badge)](https://betterdiscord.app/Download?id=366)
+[![Download](https://img.shields.io/badge/Download-3a71c1?labelColor=0c0d10&color=3a71c1&style=for-the-badge)](https://github.com/programmer2514/BetterDiscord-CollapsibleUI/releases/latest/download/CollapsibleUI.plugin.js)
+[![View on BetterDiscord](https://img.shields.io/badge/View%20on%20BetterDiscord-3a71c1?labelColor=0c0d10&color=3a71c1&style=for-the-badge)](https://betterdiscord.app/plugin/CollapsibleUI)
 
 Reworks the Discord UI to be significantly more modular
 
