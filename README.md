@@ -1,4 +1,5 @@
 # TenorTheHusky's BetterDiscord Plugins
+Click a plugin name to go to its respective repository
 
 
 
