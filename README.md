@@ -3,7 +3,7 @@ Click a plugin name to go to its respective repository
 
 ---
 
-<img align="left" src="https://betterdiscord.app/Image/658" alt="drawing" width="420"/>
+<img align="left" src="https://betterdiscord.app/Image/658" alt="drawing" width="320"/>
 
 ### [CollapsibleUI](https://github.com/programmer2514/BetterDiscord-CollapsibleUI)
 
@@ -17,7 +17,7 @@ Reworks the Discord UI to be significantly more modular
 
 ---
 
-<img align="left" src="https://betterdiscord.app/Image/1479" alt="drawing" width="420"/>
+<img align="left" src="https://betterdiscord.app/Image/1479" alt="drawing" width="320"/>
 
 ### [MessageScanAI](https://github.com/programmer2514/BetterDiscord-MessageScanAI)
 
@@ -29,7 +29,7 @@ Adds a button to scan messages for phishing/scams with AI
 
 ---
 
-<img align="left" src="https://betterdiscord.app/Image/1183" alt="drawing" width="420"/>
+<img align="left" src="https://betterdiscord.app/Image/1183" alt="drawing" width="320"/>
 
 ### [HideSystemMessages](https://github.com/programmer2514/BetterDiscord-HideSystemMessages)
 [![Download](https://img.shields.io/badge/Download-3a71c1?labelColor=0c0d10&color=3a71c1&style=for-the-badge)](https://github.com/programmer2514/BetterDiscord-HideSystemMessages/releases/latest/download/HideSystemMessages.plugin.js)
