@@ -45,3 +45,16 @@ Adds buttons to toggle system messages and chat dividers
 <br clear="left"/>
 
 ---
+
+<a href="https://github.com/programmer2514/BetterDiscord-Experiments"><img align="left" src="https://github.com/user-attachments/assets/5ad8ebcb-93ea-41d0-b600-29f05c4d0cdd" alt="drawing" width="320"/></a>
+
+### [Experiments](https://github.com/programmer2514/BetterDiscord-Experiments)
+[![GitHub Stars Count](https://img.shields.io/github/stars/programmer2514/BetterDiscord-Experiments?style=for-the-badge&label=GitHub%20Stars&labelColor=0c0d10&color=3a71c1
+)](https://github.com/programmer2514/BetterDiscord-Experiments)
+[![GitHub Download Count](https://img.shields.io/github/downloads/programmer2514/BetterDiscord-Experiments/total?style=for-the-badge&label=GitHub%20Downloads&labelColor=0c0d10&color=3a71c1)](https://github.com/programmer2514/BetterDiscord-Experiments/releases)  
+[![Download](https://img.shields.io/badge/Download-3a71c1?labelColor=0c0d10&color=3a71c1&style=for-the-badge)](https://github.com/programmer2514/BetterDiscord-Experiments/releases/latest/download/Experiments.plugin.js)
+
+Enables the Discord Experiments and Developer settings
+<br clear="left"/>
+
+---
