@@ -18,7 +18,7 @@ Reworks the Discord UI to be significantly more modular
 
 ---
 
-<a href="https://github.com/programmer2514/BetterDiscord-MessageScanAI"><img align="left" src="https://betterdiscord.app/Image/1479" alt="drawing" width="320"/></a>
+<a href="https://github.com/programmer2514/BetterDiscord-MessageScanAI"><img align="left" src="https://betterdiscord.app/Image/1593" alt="drawing" width="320"/></a>
 
 ### [MessageScanAI](https://github.com/programmer2514/BetterDiscord-MessageScanAI)
 
@@ -29,6 +29,20 @@ Reworks the Discord UI to be significantly more modular
 [![View on BetterDiscord](https://img.shields.io/badge/View%20on%20BetterDiscord-3a71c1?labelColor=0c0d10&color=3a71c1&style=for-the-badge)](https://betterdiscord.app/plugin/MessageScanAI)
 
 Adds a button to scan messages for phishing/scams with AI
+<br clear="left"/>
+
+---
+
+<a href="https://github.com/programmer2514/BetterDiscord-FullscreenToggle"><img align="left" src="https://github.com/user-attachments/assets/f4621ecc-11ea-436a-ba96-5bed33f2708b" alt="drawing" width="320"/></a>
+
+### [FullscreenToggle](https://github.com/programmer2514/BetterDiscord-FullscreenToggle)
+
+[![GitHub Stars Count](https://img.shields.io/github/stars/programmer2514/BetterDiscord-FullscreenToggle?style=for-the-badge&label=GitHub%20Stars&labelColor=0c0d10&color=3a71c1
+)](https://github.com/programmer2514/BetterDiscord-FullscreenToggle)
+[![GitHub Download Count](https://img.shields.io/github/downloads/programmer2514/BetterDiscord-FullscreenToggle/total?style=for-the-badge&label=GitHub%20Downloads&labelColor=0c0d10&color=3a71c1)](https://github.com/programmer2514/BetterDiscord-FullscreenToggle/releases)  
+[![Download](https://img.shields.io/badge/Download-3a71c1?labelColor=0c0d10&color=3a71c1&style=for-the-badge)](https://github.com/programmer2514/BetterDiscord-FullscreenToggle/releases/latest/download/FullscreenToggle.plugin.js)
+
+Easily make Discord fullscreen and customize fullscreen behavior
 <br clear="left"/>
 
 ---
