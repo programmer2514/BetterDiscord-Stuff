@@ -42,7 +42,7 @@ Adds a button to scan messages for phishing/scams with AI
 [![GitHub Download Count](https://img.shields.io/github/downloads/programmer2514/BetterDiscord-FullscreenToggle/total?style=for-the-badge&label=GitHub%20Downloads&labelColor=0c0d10&color=3a71c1)](https://github.com/programmer2514/BetterDiscord-FullscreenToggle/releases)  
 [![Download](https://img.shields.io/badge/Download-3a71c1?labelColor=0c0d10&color=3a71c1&style=for-the-badge)](https://github.com/programmer2514/BetterDiscord-FullscreenToggle/releases/latest/download/FullscreenToggle.plugin.js)
 
-Easily make Discord fullscreen and customize fullscreen behavior
+Easily make Discord fullscreen and customize its fullscreen behavior
 <br clear="left"/>
 
 ---
