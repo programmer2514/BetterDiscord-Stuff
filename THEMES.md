@@ -4,9 +4,9 @@ Click on a theme to go to its respective repository
 
 ---
 
-<a href="https://github.com/programmer2514/BetterDiscord-CollapsibleUI"><img align="left" src="https://github.com/user-attachments/assets/bad7512e-a6d4-4600-a11d-12a15d54eaac" alt="drawing" width="320"/></a>
+<a href="https://github.com/programmer2514/BetterDiscord-UIRefreshRefresh"><img align="left" src="https://github.com/user-attachments/assets/bad7512e-a6d4-4600-a11d-12a15d54eaac" alt="drawing" width="320"/></a>
 
-### [UI Refresh Refresh](https://github.com/programmer2514/BetterDiscord-CollapsibleUI)
+### [UI Refresh Refresh](https://github.com/programmer2514/BetterDiscord-UIRefreshRefresh)
 
 [![GitHub Stars Count](https://img.shields.io/github/stars/programmer2514/BetterDiscord-UIRefreshRefresh?style=for-the-badge&label=GitHub%20Stars&labelColor=0c0d10&color=3a71c1
 )](https://github.com/programmer2514/BetterDiscord-UIRefreshRefresh)
