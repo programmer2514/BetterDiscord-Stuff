@@ -1,3 +1,4 @@
+### [← Back](https://github.com/programmer2514/BetterDiscord-Stuff)
 # programmer2514's BetterDiscord Plugins
 Click on a plugin to go to its respective repository
 
