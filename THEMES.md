@@ -4,7 +4,7 @@ Click on a theme to go to its respective repository
 
 ---
 
-<a href="https://github.com/programmer2514/BetterDiscord-UIRefreshRefresh"><img align="left" src="https://github.com/user-attachments/assets/bad7512e-a6d4-4600-a11d-12a15d54eaac" alt="drawing" width="320"/></a>
+<a href="https://github.com/programmer2514/BetterDiscord-UIRefreshRefresh"><img align="left" src="https://github.com/user-attachments/assets/8f133c96-b6d0-4ee0-839d-8f09e0acd271" alt="drawing" width="320"/></a>
 
 ### [UI Refresh Refresh](https://github.com/programmer2514/BetterDiscord-UIRefreshRefresh)
 
