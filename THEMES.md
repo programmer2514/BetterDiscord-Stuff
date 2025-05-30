@@ -12,6 +12,7 @@ Click on a theme to go to its respective repository
 )](https://github.com/programmer2514/BetterDiscord-UIRefreshRefresh)
 [![GitHub Download Count](https://img.shields.io/github/downloads/programmer2514/BetterDiscord-UIRefreshRefresh/total?style=for-the-badge&label=GitHub%20Downloads&labelColor=0c0d10&color=3a71c1)](https://github.com/programmer2514/BetterDiscord-UIRefreshRefresh/releases)  
 [![Download](https://img.shields.io/badge/Download-3a71c1?labelColor=0c0d10&color=3a71c1&style=for-the-badge)](https://github.com/programmer2514/BetterDiscord-UIRefreshRefresh/releases/latest/download/UIRefreshRefresh.theme.css)
+[![View on BetterDiscord](https://img.shields.io/badge/View%20on%20BetterDiscord-3a71c1?labelColor=0c0d10&color=3a71c1&style=for-the-badge)](https://betterdiscord.app/theme/UI%20Refresh%20Refresh)
 
 Enjoy Discord's UI refresh without the visual inconsistencies.
 <br clear="left"/>
