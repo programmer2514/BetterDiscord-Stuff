@@ -42,6 +42,7 @@ Adds a button to scan messages for phishing/scams with AI
 )](https://github.com/programmer2514/BetterDiscord-FullscreenToggle)
 [![GitHub Download Count](https://img.shields.io/github/downloads/programmer2514/BetterDiscord-FullscreenToggle/total?style=for-the-badge&label=GitHub%20Downloads&labelColor=0c0d10&color=3a71c1)](https://github.com/programmer2514/BetterDiscord-FullscreenToggle/releases)  
 [![Download](https://img.shields.io/badge/Download-3a71c1?labelColor=0c0d10&color=3a71c1&style=for-the-badge)](https://github.com/programmer2514/BetterDiscord-FullscreenToggle/releases/latest/download/FullscreenToggle.plugin.js)
+[![View on BetterDiscord](https://img.shields.io/badge/View%20on%20BetterDiscord-3a71c1?labelColor=0c0d10&color=3a71c1&style=for-the-badge)](https://betterdiscord.app/plugin/FullscreenToggle)
 
 Easily make Discord fullscreen and customize its fullscreen behavior
 <br clear="left"/>
@@ -55,6 +56,7 @@ Easily make Discord fullscreen and customize its fullscreen behavior
 )](https://github.com/programmer2514/BetterDiscord-HideSystemMessages)
 [![GitHub Download Count](https://img.shields.io/github/downloads/programmer2514/BetterDiscord-HideSystemMessages/total?style=for-the-badge&label=GitHub%20Downloads&labelColor=0c0d10&color=3a71c1)](https://github.com/programmer2514/BetterDiscord-HideSystemMessages/releases)  
 [![Download](https://img.shields.io/badge/Download-3a71c1?labelColor=0c0d10&color=3a71c1&style=for-the-badge)](https://github.com/programmer2514/BetterDiscord-HideSystemMessages/releases/latest/download/HideSystemMessages.plugin.js)
+[![Only Available On GitHub](https://img.shields.io/badge/Only%20Available%20on%20GitHub-3a71c1?labelColor=0c0d10&color=6B6B6B&style=for-the-badge)](https://github.com/programmer2514/BetterDiscord-HideSystemMessages)
 
 Adds buttons to toggle system messages and chat dividers
 <br clear="left"/>
@@ -68,6 +70,7 @@ Adds buttons to toggle system messages and chat dividers
 )](https://github.com/programmer2514/BetterDiscord-Experiments)
 [![GitHub Download Count](https://img.shields.io/github/downloads/programmer2514/BetterDiscord-Experiments/total?style=for-the-badge&label=GitHub%20Downloads&labelColor=0c0d10&color=3a71c1)](https://github.com/programmer2514/BetterDiscord-Experiments/releases)  
 [![Download](https://img.shields.io/badge/Download-3a71c1?labelColor=0c0d10&color=3a71c1&style=for-the-badge)](https://github.com/programmer2514/BetterDiscord-Experiments/releases/latest/download/Experiments.plugin.js)
+[![Only Available On GitHub](https://img.shields.io/badge/Only%20Available%20on%20GitHub-3a71c1?labelColor=0c0d10&color=6B6B6B&style=for-the-badge)](https://github.com/programmer2514/BetterDiscord-Experiments)
 
 Enables the Discord Experiments and Developer settings
 <br clear="left"/>
